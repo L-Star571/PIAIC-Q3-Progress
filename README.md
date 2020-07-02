@@ -1,2 +1,2 @@
 # PIAIC-Q3-Progress
-## These aremy practice files
+## These are my practice files
